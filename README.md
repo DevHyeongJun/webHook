@@ -11,7 +11,7 @@
 > 
 > git remote add origin https://github.com/DevHyeongJun/webHook.git
 > 
-> git pull origin master
+> git pull origin main
 > 
 > npm install
 > 
